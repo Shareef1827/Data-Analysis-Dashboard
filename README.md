@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-This Power BI dashboard provides a detailed analysis of car insurance policyholders, vehicles, and claim behavior. It identifies key risk factors by examining demographics, vehicle details, and claim frequency and severity.  Tools Used: Power BI
+# INSURANCE RISK & CLAIMS ANALYSIS (Interactive Dashboard creation using Power-BI)
+## Project Objective
+Insurance companies often face challenges in identifying high-risk customers, predicting claim behavior, and ensuring fair premium pricing. Without proper data analysis, it becomes difficult to detect fraudulent claims, understand customer risk profiles, and make informed business decisions.
